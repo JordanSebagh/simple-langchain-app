@@ -11,4 +11,4 @@ st.write("For more details, take a look at this workshop's [walkthrough](https:/
 
 st.text_input("Type something here!")
 
-open_ai_api_key = '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'
+open_ai_api_key = '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'
