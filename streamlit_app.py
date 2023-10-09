@@ -10,3 +10,5 @@ st.write("For more details, take a look at this workshop's [walkthrough](https:/
 # Uncomment the line below to add a text field, and type "streamlit run streamlit_app.py" in the terminal to see the changes.
 
 st.text_input("Type something here!")
+
+open_ai_api_key = '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'
